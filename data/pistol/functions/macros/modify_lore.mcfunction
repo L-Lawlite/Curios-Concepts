@@ -1,1 +1,0 @@
-$data modify storage pistol:ammuniation Lore set value ['{"text":"Ammo: $(value)"}']

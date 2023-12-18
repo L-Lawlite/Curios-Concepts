@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "entered_end_gateway": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "minecraft:the_end"
+      }
+    }
+  },
+  "rewards": {
+    "function": "disable_end:store_spawpoint"
+  }
+}
