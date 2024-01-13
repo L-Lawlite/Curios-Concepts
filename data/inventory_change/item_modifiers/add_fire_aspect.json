@@ -1,0 +1,8 @@
+[
+    {
+        "function": "minecraft:enchant_randomly",
+        "enchantments": [
+            "minecraft:fire_aspect"
+        ]
+    }
+]

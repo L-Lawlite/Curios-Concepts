@@ -1,3 +1,5 @@
 {
-  "values":[]
+  "values":[
+    "inventory_change:load"
+  ]
 }
