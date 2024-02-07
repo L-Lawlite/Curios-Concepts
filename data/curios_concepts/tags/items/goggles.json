@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        "create:goggles",
+        "artifacts:snorkel",
+        "artifacts:night_vision_goggles"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "criteria": {
+        "test": {
+            "trigger": "curios:equip_curio",
+            "conditions": {
+                "curios:slot": {
+                    "slots": ["belt"],
+                    "item": {
+                        "items":[ 
+                            "minecraft:nether_star"
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "curios_concepts:add_slots/belt"
+    }
+}
